@@ -1,0 +1,40 @@
+
+.jumbotron {
+  font-family: 'Arvo',courier, serif;
+  padding-bottom: 3rem;
+  background-color: #fff;
+}
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 2rem;
+    padding-bottom: 6rem;
+  }
+}
+.navbar-header2{
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 10px;
+}
+.jumbotron-heading {
+  font-family: 'Arvo',courier, serif;
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  font-size: 20px;
+  max-width: 40rem;
+}
+.search{
+  padding-top: 10px;
+  padding-left: 20px
+}
+
+footer {
+  background-color: #e74c3c;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
